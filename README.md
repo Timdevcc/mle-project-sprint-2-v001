@@ -93,7 +93,7 @@ sh mlflow_server/run_mlflow_server.sh
 mlflow_server/
 ```
 
-
+Регистрация базовой модели хранится в нотбуке mlflow_server/base_model.ipynb
 
 ## Этап 2. Исследовательский анализ данных
 
